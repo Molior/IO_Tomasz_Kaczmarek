@@ -56,7 +56,7 @@ if liczba_prac == 1:
     suma_pracodawca_wszyscy = sum_pracodawca(pracownik_kwota)
     print(suma_pracodawca_wszyscy)
 else:
-    while liczba_prac NE 0:
+    while liczba_prac != 0:
         wejscie = input()
         pracownicy = wejscie.split()
         pracownicy.append(pracownicy[0])
@@ -68,4 +68,4 @@ else:
     for i in range(0, len(wyniki)):
         print(wyniki[i])
     print(round(float(suma_pracodawca_wszyscy), 2))
-	print("Nowa wersja")
+	print("Ta wersja jest już ostateczna i działa!")
