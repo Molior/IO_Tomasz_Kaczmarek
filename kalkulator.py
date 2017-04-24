@@ -69,3 +69,4 @@ else:
         print(wyniki[i])
     print(round(float(suma_pracodawca_wszyscy), 2))
 	print("Ta wersja jest już ostateczna i działa!")
+	print("Lubie placki")
