@@ -68,5 +68,3 @@ else:
     for i in range(0, len(wyniki)):
         print(wyniki[i])
     print(round(float(suma_pracodawca_wszyscy), 2))
-	print("Ta wersja jest juz ostateczna i dziala!")
-	print("Lubie placki")
